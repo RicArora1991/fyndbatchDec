@@ -1,1 +1,1 @@
-This is my first session og git.
+This is my first session of git and github.
